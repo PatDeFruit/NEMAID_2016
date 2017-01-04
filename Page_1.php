@@ -28,29 +28,30 @@
 
 <body>
 
-    <?php include("./header_index.php"); ?> 
+    <?php include("header.php"); ?> 
 
     <!-- Page Content -->
     <div class="container">
 
         <!-------------------------- Container --------------------------------->
-
             <!-- Page Heading -->
             <div class="row">
-                <div class="col-lg-offset-3 col-lg-6">
-                    <div class="panel panel-default">
-                        <div class="panel-heading" style="background: #0C9277">
-                            <h3 class="panel-title text-center">Connexion</h3>
-                        </div>
-                        <div class="panel-body">
-                          bla bla bla bla
-                          <br/>
-                          bla bla bla
-                        </div>
-                    </div>
+                <div class="col-lg-12">
+                    <h1 class="page-header">Nom de la page
+                    </h1>
+                    <ol class="breadcrumb">
+                        <li><a href="index.html">Catégorie</a>
+                        </li>
+                        <li class="active">Titre de la page</li>
+                    </ol>
                 </div>
             </div>
             <!-- /.row -->
+        <br/>
+        
+            <!-- ICI mettre ce qu'on veut -->
+                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+            <!-- ------------------------ -->
         
         <!-------------------------- /Container --------------------------------->
 
