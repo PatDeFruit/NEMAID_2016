@@ -40,7 +40,7 @@
                     <h1 class="page-header">Nom de la page
                     </h1>
                     <ol class="breadcrumb">
-                        <li><a href="index.html">Catégorie</a>
+                        <li><a href="Page_1.php">Catégorie</a>
                         </li>
                         <li class="active">Titre de la page</li>
                     </ol>
