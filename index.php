@@ -43,9 +43,11 @@
                             <h3 class="panel-title text-center">Connexion</h3>
                         </div>
                         <div class="panel-body">
-                          bla bla bla bla
-                          <br/>
-                          bla bla bla
+                           <a href="Page_1.php">Page 1</a>
+                          <br/><br/>  
+                            lien vers boostrap : <a href="http://getbootstrap.com/components/" target="_blank"> clic </a>
+                          <br/><br/>
+                            lien pour code couleur : <a href="http://htmlcolorcodes.com/fr/" target="_blank"> clic </a>
                         </div>
                     </div>
                 </div>
